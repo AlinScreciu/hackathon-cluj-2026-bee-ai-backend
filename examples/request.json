@@ -1,0 +1,19 @@
+{
+  "crop": "rapita",
+  "parcelId": "P-128",
+  "product": {
+    "commercialName": "Mospilan 20 SG",
+    "activeSubstance": "acetamiprid",
+    "beeToxicity": "high"
+  },
+  "dose": {
+    "amountPerHectareKg": 0.2,
+    "totalAmountKg": 1.4
+  },
+  "applicationMethod": "ground_boom",
+  "appliedAt": "2026-05-23T06:30:00+03:00",
+  "durationHours": 2.0,
+  "areaHa": 7.0,
+  "center": { "lat": 46.7712, "lon": 23.6236 },
+  "locale": "ro"
+}

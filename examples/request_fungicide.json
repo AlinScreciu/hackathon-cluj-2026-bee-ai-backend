@@ -1,0 +1,20 @@
+{
+  "_comment": "SCENARIO: Tebuconazole fungicide on wheat — practically non-toxic to bees, should show only A1 with no extended zones",
+  "crop": "grau",
+  "parcelId": "P-055",
+  "product": {
+    "commercialName": "Folicur Solo 250 EW",
+    "activeSubstance": "tebuconazole",
+    "beeToxicity": "low"
+  },
+  "dose": {
+    "amountPerHectareKg": 1.0,
+    "totalAmountKg": 8.0
+  },
+  "applicationMethod": "ground_boom",
+  "appliedAt": "2026-05-28T07:00:00+03:00",
+  "durationHours": 3.0,
+  "areaHa": 8.0,
+  "center": { "lat": 45.2692, "lon": 27.9751 },
+  "locale": "ro"
+}

@@ -1,0 +1,20 @@
+{
+  "_comment": "SCENARIO: Chlorpyrifos on corn during a storm window — high wind should push A2/A3/A4 beyond the 7km A1 boundary",
+  "crop": "porumb",
+  "parcelId": "P-088",
+  "product": {
+    "commercialName": "Dursban 480 EC",
+    "activeSubstance": "chlorpyrifos",
+    "beeToxicity": "high"
+  },
+  "dose": {
+    "amountPerHectareKg": 1.5,
+    "totalAmountKg": 18.0
+  },
+  "applicationMethod": "ground_boom",
+  "appliedAt": "2026-06-15T11:00:00+03:00",
+  "durationHours": 4.0,
+  "areaHa": 12.0,
+  "center": { "lat": 46.0775, "lon": 23.5750 },
+  "locale": "ro"
+}

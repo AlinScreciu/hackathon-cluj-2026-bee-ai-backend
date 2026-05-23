@@ -1,0 +1,20 @@
+{
+  "_comment": "SCENARIO: Spinosad (organic but extremely toxic to bees) applied at night — time-of-day factor should reduce zones significantly",
+  "crop": "vita-de-vie",
+  "parcelId": "P-312",
+  "product": {
+    "commercialName": "Tracer 480 SC",
+    "activeSubstance": "spinosad",
+    "beeToxicity": "very_high"
+  },
+  "dose": {
+    "amountPerHectareKg": 0.096,
+    "totalAmountKg": 0.48
+  },
+  "applicationMethod": "airblast",
+  "appliedAt": "2026-06-05T22:00:00+03:00",
+  "durationHours": 2.0,
+  "areaHa": 5.0,
+  "center": { "lat": 45.0755, "lon": 23.2731 },
+  "locale": "ro"
+}

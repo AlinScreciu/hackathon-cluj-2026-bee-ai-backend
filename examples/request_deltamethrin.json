@@ -1,0 +1,20 @@
+{
+  "_comment": "SCENARIO: Decis (deltamethrin) aerial on sunflower — very high toxicity, small amount but extremely lethal per bee",
+  "crop": "floarea-soarelui",
+  "parcelId": "P-201",
+  "product": {
+    "commercialName": "Decis 25 WG",
+    "activeSubstance": "deltamethrin",
+    "beeToxicity": "very_high"
+  },
+  "dose": {
+    "amountPerHectareKg": 0.03,
+    "totalAmountKg": 0.15
+  },
+  "applicationMethod": "aerial",
+  "appliedAt": "2026-06-10T10:00:00+03:00",
+  "durationHours": 1.5,
+  "areaHa": 5.0,
+  "center": { "lat": 44.4268, "lon": 26.1025 },
+  "locale": "ro"
+}
